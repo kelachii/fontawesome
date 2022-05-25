@@ -1,0 +1,35 @@
+.vertical ul{
+    background-color: yellow;
+    width: 40%;
+    line-height: 50px;
+    list-style: none;
+}
+
+.horizontal ul{
+    background-color: grey;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    line-height: 5;    
+}
+.fa-facebook{
+    color:rgb(22, 4, 88)
+}
+.fa-linkedin{
+    color: rgb(3, 3, 180);
+}
+.fa-youtube{
+    color: red;
+}
+.fa-twitter-square{
+    color: rgb(0, 110, 255);
+}
+.fa-pinterest-square{
+    color: red;
+}
+.fa-whatsapp-square{
+    color: rgb(5, 139, 5);
+}
+.fa-instagram-square{
+    linear
+}
